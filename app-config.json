@@ -1,6 +1,6 @@
 {
   "adsEnabled": true,
-  "apkUpdatesEnabled": true,
-  "latestVersionCode": 10,
+  "apkUpdatesEnabled": false,
+  "latestVersionCode": 9,
   "apkUrl": "https://github.com/luffysungodnikaaaa-lgtm/BlitzDrama/releases/download/v9/app-release.apk"
 }
